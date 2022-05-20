@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sen Yang</h1>
+<h3 align="center">AI Developer / Kaggle master</h3>
 
-<!--
-**Scu-sen/Scu-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scusen" alt="scusen" /> </p>
 
-Here are some ideas to get you started:
+### My Social Media 💬
+- LinkedIn: [@SenYang](https://www.linkedin.com/in/sen-yang-223525186/)
+- Kaggle Profile: [@SenYang](https://www.kaggle.com/scusywxy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Email: ys810137152@gmail.com
+
+<p align="center">
+<a href="https://www.kaggle.com/scusywxy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senyang" height="30" width="30" /></a>
+
+</p>
